@@ -1,0 +1,11 @@
+{
+  "version": "latest",
+  "description": "Steam gaming platform",
+  "homepage": "https://store.steampowered.com/",
+  "license": "Free",
+  "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+  "hash": "7f99a58f1882c860787a2dbf28a1243f3d2a9b68f7c98fce2e6ad46f8b027cd8",
+  "installer": {
+    "args": "/S"
+  }
+}
