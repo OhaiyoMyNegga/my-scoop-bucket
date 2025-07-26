@@ -4,7 +4,7 @@
   "homepage": "https://store.steampowered.com/",
   "license": "Free",
   "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
-  "hash": "7f99a58f1882c860787a2dbf28a1243f3d2a9b68f7c98fce2e6ad46f8b027cd8",
+  "hash": "7D3654531C32D941B8CAE81C4137FC542172BFA9635F169CB392F245A0A12BCB",
   "installer": {
     "args": "/S"
   }
